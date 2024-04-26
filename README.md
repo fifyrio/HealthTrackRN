@@ -31,7 +31,7 @@ $ npx expo --version
 ## Screenshots
 | Screenshots |
 |---------|
-| ![Simulator Screenshot - iPhone 15 Pro - 2024-04-26 at 10 41 26](https://github.com/fifyrio/HealthTrackRN/assets/8080188/de4be90b-ac46-459c-906f-f871351f623d |
+| ![Simulator Screenshot - iPhone 15 Pro - 2024-04-26 at 10 41 26](https://github.com/fifyrio/HealthTrackRN/assets/8080188/de4be90b-ac46-459c-906f-f871351f623d)|
 | ![Simulator Screenshot - iPhone 15 Pro - 2024-04-26 at 10 42 00](https://github.com/fifyrio/HealthTrackRN/assets/8080188/48fa8abc-272a-42a1-9def-fcdb7a17882c)|
 | ![Simulator Screenshot - iPhone 15 Pro - 2024-04-26 at 10 45 02](https://github.com/fifyrio/HealthTrackRN/assets/8080188/0d6d308d-fe2e-4bf4-bd32-bf41179627cd)|
 | ![Simulator Screenshot - iPhone 15 Pro - 2024-04-26 at 10 45 07](https://github.com/fifyrio/HealthTrackRN/assets/8080188/7151a538-07b0-4b87-ba54-9bc04233b818)|
