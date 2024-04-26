@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "tramkam",
-    "slug": "tramkam",
+    "name": "aihealthtrack",
+    "slug": "aihealthtrack",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -20,12 +20,12 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package": "com.fifyrio.tramkam",
+      "package": "com.fifyrio.aihealthtrack",
       "versionCode": 1
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.fifyrio.tramkam",
+      "bundleIdentifier": "com.fifyrio.aihealthtrack",
       "buildNumber": "1.0.0",
       "infoPlist": {
         "UIBackgroundModes": ["audio"]

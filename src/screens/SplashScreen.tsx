@@ -30,7 +30,7 @@ const SplashScreen = React.memo(() => {
   return (
     <Container style={styles.container}>
       <Text category="h3" center marginBottom={32}>
-        {`Welcome to\nTramKam UIkit 🎉🎉🎉`}
+        {`Welcome to\naihealthtrack UIkit 🎉🎉🎉`}
       </Text>
       <FlatList
         data={data}

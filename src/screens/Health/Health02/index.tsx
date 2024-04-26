@@ -32,7 +32,7 @@ const Health02 = React.memo(() => {
         accessoryRight={
           <NavigationAction status="primary" icon="circles_four" />
         }
-        title="Tramkam"
+        title="aihealthtrack"
       />
       <TabBar
         tabs={TAB}
